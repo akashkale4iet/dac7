@@ -1,5 +1,0 @@
-INDEX VERSION 1.131
-/home/iet/Rajat_Akash/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3075797635.index
-/SpringMVCCheckBox/src/main/java
-/home/iet/Rajat_Akash/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/705261232.index
-/SpringMVCCheckBox/src/main/java

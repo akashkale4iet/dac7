@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+/home/iet/Rajat_Akash/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3325719041.index
-2659748287.index
-3672957227.index
-3308612710.index
-394458118.index
